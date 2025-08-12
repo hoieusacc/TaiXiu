@@ -46,5 +46,12 @@ Run the simulation with:
   python TaiXiu.py
 ```
 
+Game Logic
+  - Rolls 3 dice (values 1–6 each)
+  - Computes sum:
+    + Tài (big): sum from 11 to 18
+    + Xỉu (small): sum from 3 to 10
+  - Outputs the result along with the dice values and whether the guess was correct or not.
+
 [⬅ Return](#TaiXiu)
 
