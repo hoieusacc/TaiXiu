@@ -16,7 +16,6 @@ _Built with Python_
   - [Installation](#installation)
   - [Usage](#usage)
 - [Game Logic](#game-logic)
-- [License](#license)
 
 ---
 
@@ -40,13 +39,13 @@ _Built with Python_
 2. **Navigate into the project directory:**
    ```bash
    cd TaiXiu
-Usage
+## Usage:
 Run the simulation with:
   ```bash
   python TaiXiu.py
 ```
 
-Game Logic
+## Game Logic:
   - Rolls 3 dice (values 1–6 each)
   - Computes sum:
     + Tài (big): sum from 11 to 18
